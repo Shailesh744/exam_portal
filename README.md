@@ -31,18 +31,11 @@ Online MCQ Exam is an exam system for students.
 * Edit the database connection from ```config/config.php``` 
 * Browse the website
 
-### Screenshot
-![ScreenShot](https://i.imgur.com/jQFhHpQ.png})
-![ScreenShot](https://i.imgur.com/WLGQAzp.png})
-![ScreenShot](https://i.imgur.com/0CL9lqj.png})
-![ScreenShot](https://i.imgur.com/ZBc6nO2.png})
-![ScreenShot](https://i.imgur.com/fuTvlNM.png})
-
 
 ### Default User Logins
 If you are logging as a student at the front panel try logging with the following username
 ```
-username: saif@paypal.com
+username: test@test.com
 pass: 123456
 ```
 
